@@ -1,0 +1,57 @@
+==================================================
+Detailed Classification Report (Fine-Tuned Model)
+==================================================
+
+Overall Accuracy: 0.7763 (77.63%)
+
+                  precision    recall  f1-score   support
+
+      bakorkhani     0.8800    0.8800    0.8800        25
+         balosai     1.0000    1.0000    1.0000        39
+ beef kala bhuna     0.9459    0.7447    0.8333        47
+          beguni     0.9318    0.9318    0.9318        44
+         biryani     0.8088    1.0000    0.8943        55
+     chola_bhuna     1.0000    0.0526    0.1000        19
+       cream jam     0.9545    1.0000    0.9767        21
+       dim bhuna     0.9048    1.0000    0.9500        19
+             doi     0.9400    0.9038    0.9216        52
+ dudh puli pitha     1.0000    1.0000    1.0000        16
+      egg_omlete     1.0000    0.0114    0.0225        88
+          faluda     1.0000    1.0000    1.0000        21
+       golap jam     1.0000    1.0000    1.0000        26
+   hafsi sondesh     1.0000    1.0000    1.0000        22
+          haleem     0.9275    0.9275    0.9275        69
+     hilsha_fish     0.0000    0.0000    0.0000        56
+          jilapi     1.0000    1.0000    1.0000        16
+           kabab     0.9194    0.9194    0.9194        62
+    kacha  chana     1.0000    1.0000    1.0000        23
+     kacha golla     1.0000    0.5128    0.6780        39
+         kalojam     1.0000    1.0000    1.0000        32
+kasmiri chomchom     1.0000    1.0000    1.0000        33
+        khichuri     0.9189    0.8293    0.8718        82
+     lemon barfi     0.9677    1.0000    0.9836        30
+       malaikari     1.0000    1.0000    1.0000        32
+    maoyaa laddo     1.0000    1.0000    1.0000        28
+   mashed_potato     0.0000    0.0000    0.0000        13
+     morog_polao     0.0000    0.0000    0.0000        27
+          nehari     0.8814    0.9286    0.9043        56
+    nokshi pitha     0.9444    1.0000    0.9714        17
+     pakon pitha     1.0000    1.0000    1.0000        15
+     panta ilish     0.5500    0.7857    0.6471        14
+      patishapta     0.8333    1.0000    0.9091        15
+          payesh     0.9444    1.0000    0.9714        17
+         phuchka     0.9815    0.9636    0.9725        55
+          porota     1.0000    0.6625    0.7970        80
+          rajvog     0.0000    0.0000    0.0000        31
+        ravogsai     1.0000    1.0000    1.0000        26
+       roshmalai     0.9792    0.9216    0.9495        51
+       rosogolla     0.8605    0.8506    0.8555        87
+    s.p.chomchom     1.0000    0.8571    0.9231        21
+   sada chomchom     1.0000    1.0000    1.0000        18
+     sajer pitha     1.0000    1.0000    1.0000        17
+    shamok pitha     1.0000    1.0000    1.0000        15
+          shemai     1.0000    0.9375    0.9677        16
+
+       micro avg     0.9397    0.7763    0.8502      1587
+       macro avg     0.8683    0.8138    0.8169      1587
+    weighted avg     0.8733    0.7763    0.7880      1587

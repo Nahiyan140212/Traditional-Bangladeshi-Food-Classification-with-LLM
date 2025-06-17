@@ -1,0 +1,6 @@
+data/
+.env
+fine-tuning/finetuning_data_5shot_lowres.jsonl
+fine-tuning/finetuning_data_small_lowres.jsonlwandb/
+model_comparison_results/
+*.pth
