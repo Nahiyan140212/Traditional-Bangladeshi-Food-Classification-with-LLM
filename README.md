@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # A Comparative Analysis of SOTA Models for Fine-Grained Classification of Bangladeshi Cuisine
 
 This repository contains the official code and experimental framework for the research paper, "A Comparative Analysis of Vision Transformers, CLIP, and Large Multi-modal Models for Fine-Grained Classification of Bangladeshi Cuisine."
