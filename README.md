@@ -211,8 +211,4 @@ If you use this dataset, code, or our findings in your research, please consider
   year={2026}
 }
 ```
-=======
-# Traditional-Bangladeshi-Food-Classification-with-LLM
 
-
->>>>>>> c48a3a8b7c85699f1c242462513d34e24bc48253
